@@ -26,4 +26,4 @@ if people <= dogs:
 
 
 if people == dogs:
-    print 'People are dogs.'    
+    print 'People are cats.'    
